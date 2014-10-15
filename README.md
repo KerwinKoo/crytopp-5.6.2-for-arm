@@ -2,6 +2,7 @@ crytopp-5.6.2-for-arm
 =====================
 
 Modify GNUmakefile to applicable to the ARM plantform.
+
 修改源码包中的GNUmakefile文件,使其适用于ARM平台.
 
 
