@@ -15,3 +15,5 @@ I have inserted compile argument "-fPIC" into this ARM GNUmakefile to avoid some
 增加-fPIC编译参数,使其能够进行动态编译并非固定内存地址寻址.
 
 
+You can contact me when there are some questions:
+Email:gukaiqiang@gmail.com
